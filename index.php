@@ -36,9 +36,6 @@
                         iframes and landings pages based on HTML5, review and report code-level bugs of the developments created, monthly 
                         documentation of the maintenance of the site, I am in charge of the training of the new workers in the QA department.
                     </p>
-                    <p class="download-cv">
-                        <a href="#" target="_blank"><i class="fas fa-file-download"></i> Download CV</a>
-                    </p>
                 </div>
             </div>
         </div>
@@ -130,22 +127,21 @@
                             </div>
                         </div>
                     </a>
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_3.jpg" data-lightbox="roadtrip" data-title="My caption">
-                        <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_3.jpg" class="img-fluid" alt="">
-                            <div class="overlay">
-                                <div class="text">UNICEF</div>
-                            </div>
-                        </div>
-                        
-                    </a>
-                </div>
-                <div class="d-flex flex-column">
                     <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_4.png" data-lightbox="roadtrip" data-title="My caption">
                         <div class="container-over">
                             <img src="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_4.png" class="img-fluid" alt="">
                             <div class="overlay">
-                                <div class="text">Bachoco</div>
+                                <div class="text">CMS Administrator</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="d-flex flex-column">
+                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_3.jpg" data-lightbox="roadtrip" data-title="My caption">
+                        <div class="container-over">
+                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_3.png" class="img-fluid" alt="">
+                            <div class="overlay">
+                                <div class="text">Web Sites</div>
                             </div>
                         </div>
                     </a>
@@ -154,43 +150,6 @@
                             <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_2.png" class="img-fluid" alt="">
                             <div class="overlay">
                                 <div class="text">Wireframing</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="d-flex flex-column">
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_img_33.jpg" data-lightbox="roadtrip" data-title="My caption">
-                        <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_img_33.jpg" class="img-fluid image-overlay" alt="">
-                            <div class="overlay">
-                                <div class="text">5</div>
-                            </div>
-                        </div>
-                    </a>
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_5.png" data-lightbox="roadtrip" data-title="My caption">
-                        <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_5.png" class="img-fluid" alt="">
-                            <div class="overlay">
-                                <div class="text">Chevrolet</div>
-                            </div>
-                        </div>
-                        
-                    </a>
-                </div>
-                <div class="d-flex flex-column">
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/park.jpg" data-lightbox="roadtrip" data-title="My caption">
-                        <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/park.jpg" class="img-fluid" alt="">
-                            <div class="overlay">
-                                <div class="text">7</div>
-                            </div>
-                        </div>
-                    </a>
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_img_33.jpg" data-lightbox="roadtrip" data-title="My caption">
-                        <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_img_33.jpg" class="img-fluid" alt="">
-                            <div class="overlay">
-                                <div class="text">8</div>
                             </div>
                         </div>
                     </a>
@@ -212,8 +171,11 @@
                                 <div class="carousel-item active">
                                     <div class="carousel-content">
                                         <div>
-                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_1.jpg" alt="">
-                                            <p>Sapiente, ducimus, voluptas, mollitia voluptatibus nemo explicabo sit blanditiis laborum dolore illum fuga veniam quae expedita libero accusamus quas harum ex numquam necessitatibus provident deleniti tenetur iusto officiis recusandae corporis culpa quaerat?</p>
+                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_3.jpg" alt="">
+                                            <p><b>Allan Rosales, UX Consultant</b></p>
+                                            <p><i>"I have had the fortune to work with Mr. Ramirez in previous projects, and I admire him because of his 
+                                            ability to solve both creative and analytical problems; I can tell by personal experience that his capacity 
+                                            to achieve thoroughness when performing QA tasks will make any product bulletproof."</i></p>
                                         </div>
                                     </div>
                                 </div>
@@ -221,16 +183,21 @@
                                     <div class="carousel-content">
                                         <div>
                                             <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_2.jpg" alt="">
-                                            <p>Axel is a tremendous professional, responsible, analytical, great team work and always supportive. 
-                                                Amazing attention to detail, gets things done fast and right. Constantly in search of a solution to whatever obstacle comes our way. He is also a good friend, great listener and always makes you laugh. </p>
+                                            <p><b>Luis Ortiz, Content</b></p>
+                                            <p><i>"Axel is a tremendous professional, responsible, analytical, great team work and always supportive. 
+                                                Amazing attention to detail, gets things done fast and right. Constantly in search of a solution to 
+                                                whatever obstacle comes our way. He is also a good friend, great listener and always makes you laugh."</i></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <div class="carousel-content">
                                         <div>      
-                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_3.jpg" alt="">                    
-                                            <p>Sapiente, ducimus, voluptas, mollitia voluptatibus nemo explicabo sit blanditiis laborum dolore illum fuga veniam quae expedita libero accusamus quas harum ex numquam necessitatibus provident deleniti tenetur iusto officiis recusandae corporis culpa quaerat?</p>
+                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_1.jpg" alt="">
+                                            <p><b>Jhon Doe, Content</b></p>
+                                            <p><i>"Sapiente, ducimus, voluptas, mollitia voluptatibus nemo explicabo sit blanditiis laborum dolore illum fuga 
+                                            veniam quae expedita libero accusamus quas harum ex numquam necessitatibus provident deleniti tenetur iusto 
+                                            officiis recusandae corporis culpa quaerat"</i></p>                   
                                         </div>
                                     </div>
                                 </div>
@@ -251,18 +218,26 @@
             </div>
             <div class="row row-form">
                 <div class="col-xs-12 col-md-8">
-                    <form class="contact-form">
+                    <form class="contact-form" action="<?php echo esc_url( admin_url('admin-post.php') ) ?>" method="post">
                         <div class="form-group">
-                            <input type="text" class="form-control placeholder-txt" id="NameInput" aria-describedby="NameHelp" placeholder="NAME" required minlength=3>
+                            <input type="text" class="form-control placeholder-txt" id="NameInput" name="NameInput" aria-describedby="NameHelp" placeholder="NAME" required minlength=3>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control placeholder-txt" id="SubjectInput" placeholder="SUBJECT" required minlength=5>
+                            <input type="text" class="form-control placeholder-txt" id="SubjectInput" name="SubjectInput" placeholder="SUBJECT" required minlength=5>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control placeholder-txt" id="CommentTextarea" rows="4" placeholder="COMMENT" required minlength=10></textarea>
+                            <textarea class="form-control placeholder-txt" id="CommentTextarea" name="CommentTextarea" rows="4" placeholder="COMMENT" required minlength=10></textarea>
                         </div>
+                        <input type="hidden" name="action" value="contacto">
                         <button type="submit" id="btnSend" class="btn btn-secondary placeholder-txt">SEND</button>
                     </form>
+                    <br>
+                    <?php if( isset( $_GET['exito'] ) ): ?>
+                        <div style="background-color: lightgreen; color: green; padding: 1em " >
+                            <p style="margin: 0">Your message has been sent</p>
+                        </div>
+                    <?php endif; ?>
+                    <br>
                 </div>
                 <div class="col-xs-12 col-md-4 contact-txt">
                     <h5><b>TELEPHONE</b></h5>
@@ -274,7 +249,7 @@
                     <h5><b>OTHERS</b></h5>
                     <p>Skype: <a href="https://join.skype.com/invite/Tp0l0qDAHDGN" target="_blank">axelramsil</a></p>
                     <p>Linkedin: <a href="https://www.linkedin.com/in/axel-ramírez-8054118b" target="_blank">https://www.linkedin.com/axel-ramírez</a></p>
-                    <p><a href="#">Download CV</a></p>
+                    <p><a href="<?php bloginfo('template_url'); ?>/imgs/pdf/CV_07012019.pdf" target="_blank">Download CV</a></p>
                 </div>
             </div>
         </div>

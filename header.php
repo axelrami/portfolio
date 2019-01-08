@@ -1,9 +1,22 @@
 <!DOCTYPE html>
 <html lang="es-en">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131921324-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-131921324-1');
+    </script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Description" content="Portfolio of professional work, skills and contact for job opportunities">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
     <title>Axel Portfolio</title>
     <link rel="icon" type="image/png" sizes="32x32" href="<?php bloginfo('template_url'); ?>/imgs/favicon-32x32.png">
     <meta name="theme-color" content="#ffffff">

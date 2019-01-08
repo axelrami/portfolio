@@ -129,7 +129,7 @@
                     </a>
                     <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_4.png" data-lightbox="roadtrip" data-title="My caption">
                         <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_4.png" class="img-fluid" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_4.png" class="img-fluid" alt="">
                             <div class="overlay">
                                 <div class="text">CMS Administrator</div>
                             </div>

@@ -9,10 +9,10 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 col-xl-3 about-img img-center">
-                    <img src="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_IMG_4.jpg" class="img-fluid" alt="About me 1"> 
+                    <img src="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_IMG_4.jpg" class="img-fluid" alt="About-me-1"> 
                 </div>
                 <div class="col-xs-12 col-xl-3 about-img">
-                    <img src="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_IMG_5.jpg" class="img-fluid" alt="About me 2"> 
+                    <img src="<?php bloginfo('template_url'); ?>/imgs/aboutme/aboutme_IMG_5.jpg" class="img-fluid" alt="About-me-2"> 
                 </div>
                 <div class="col-xs-12 col-xl-6 aboutme-text">
                     <p>
@@ -119,17 +119,17 @@
             </div>
             <div class="d-flex d-flex-row flex-wrap justify-content-center">
                 <div class="d-flex flex-column">
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_1.png" data-lightbox="roadtrip" data-title="https://bachoco.com.mx/desde-la-granja/procesos-de-res/">
+                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_1.png" data-lightbox="roadtrip" data-title="Creation of animated infographics with software like Adobe Animate https://bachoco.com.mx/desde-la-granja/procesos-de-res/">
                         <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_1.png" class="img-fluid image-overlay" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_1.png" class="img-fluid image-overlay" alt="Animated Infographics">
                             <div class="overlay">
                                 <div class="text">Animated Infographics</div>
                             </div>
                         </div>
                     </a>
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_4.png" data-lightbox="roadtrip" data-title="My caption">
+                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_4.png" data-lightbox="roadtrip" data-title="Content management for different websites. Managers like Wordpress or CMS made to order. ">
                         <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_4.png" class="img-fluid" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_4.png" class="img-fluid" alt="CMS Administrator">
                             <div class="overlay">
                                 <div class="text">CMS Administrator</div>
                             </div>
@@ -137,17 +137,17 @@
                     </a>
                 </div>
                 <div class="d-flex flex-column">
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_3.jpg" data-lightbox="roadtrip" data-title="My caption">
+                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_3.jpg" data-lightbox="roadtrip" data-title="Maintenance of the Web pages of Unicef, Chevrolet and Bachoco.">
                         <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_3.png" class="img-fluid" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_3.png" class="img-fluid" alt="Web Sites">
                             <div class="overlay">
                                 <div class="text">Web Sites</div>
                             </div>
                         </div>
                     </a>
-                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_2.png" data-lightbox="roadtrip" data-title="My caption">
+                    <a href="<?php bloginfo('template_url'); ?>/imgs/works/internal_work_2.png" data-lightbox="roadtrip" data-title="Wireframing and prototyping of responsive sites and apps with softwares like Adobe XD, Balsamiq, Sketch.">
                         <div class="container-over">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_2.png" class="img-fluid" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/imgs/works/thumb_work_2.png" class="img-fluid" alt="Wireframing">
                             <div class="overlay">
                                 <div class="text">Wireframing</div>
                             </div>
@@ -171,7 +171,7 @@
                                 <div class="carousel-item active">
                                     <div class="carousel-content">
                                         <div>
-                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_3.jpg" alt="">
+                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_3.jpg" alt="Testimonial-1">
                                             <p><b>Allan Rosales, UX Consultant</b></p>
                                             <p><i>"I have had the fortune to work with Mr. Ramirez in previous projects, and I admire him because of his 
                                             ability to solve both creative and analytical problems; I can tell by personal experience that his capacity 
@@ -182,8 +182,8 @@
                                 <div class="carousel-item">
                                     <div class="carousel-content">
                                         <div>
-                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_2.jpg" alt="">
-                                            <p><b>Luis Ortiz, Content</b></p>
+                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_2.jpg" alt="Testimonial-2">
+                                            <p><b>Luis Ortiz, Digital Content</b></p>
                                             <p><i>"Axel is a tremendous professional, responsible, analytical, great team work and always supportive. 
                                                 Amazing attention to detail, gets things done fast and right. Constantly in search of a solution to 
                                                 whatever obstacle comes our way. He is also a good friend, great listener and always makes you laugh."</i></p>
@@ -193,11 +193,12 @@
                                 <div class="carousel-item">
                                     <div class="carousel-content">
                                         <div>      
-                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_1.jpg" alt="">
-                                            <p><b>Jhon Doe, Content</b></p>
-                                            <p><i>"Sapiente, ducimus, voluptas, mollitia voluptatibus nemo explicabo sit blanditiis laborum dolore illum fuga 
-                                            veniam quae expedita libero accusamus quas harum ex numquam necessitatibus provident deleniti tenetur iusto 
-                                            officiis recusandae corporis culpa quaerat"</i></p>                   
+                                            <img class="rounded-circle" src="<?php bloginfo('template_url'); ?>/imgs/testimonial/testimonial_img_1.jpg" alt="Testimonial-3">
+                                            <p><b>Eduardo Enciso, Digital Project Manager</b></p>
+                                            <p><i>"Axel is a practical, results oriented professional. His determination on doing his work the best 
+                                            as possible is one of his greatest strengths. As he is always searching for the best solution to solve 
+                                            a code, makes him a very great resource in our team. As a person is always trying to help and explain 
+                                            technical issues to the members of the team. Great human being, great resource for our team."</i></p>                   
                                         </div>
                                     </div>
                                 </div>
